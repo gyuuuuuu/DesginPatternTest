@@ -1,4 +1,4 @@
-package builderPattern;
+package builder;
 
 public class Director {
     private Builder builder = new ConcreteBuilder();

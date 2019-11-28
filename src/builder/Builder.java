@@ -1,4 +1,4 @@
-package builderPattern;
+package builder;
 
 abstract class Builder {
     abstract void setPart();
